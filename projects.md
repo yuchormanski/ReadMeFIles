@@ -25,7 +25,7 @@
 <h3><img src="image-6.png" width="15" height ="15"> Omnifood</h3>
 
 - 🌐 Live Demo: [Omnifood](https://omnifood-yucho.netlify.app/)
-- 📂 GitHub Repository: Link to [GitHub Repository](https://github.com/yuchormanski/Udemy_courses/tree/main/Angular/clips)
+- 📂 GitHub Repository: Link to [GitHub Repository](https://github.com/yuchormanski/Udemy_courses/tree/main/HTML-CSS)
 - 📝 Description: This is the final project from [Udemy](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) course. Beautiful, professional, and ready-to-launch website. Full responsive.
 - 🔧 Technologies Used: HTML, CSS3 / CSS-Grid / CSS-Flex, JavaScript.
 
