@@ -31,7 +31,15 @@
 
 <h3><img src="image-8.png" width="15" height ="15"> WeatherNow</h3>
 
-- 🌐 Live Demo: [WeatherNow](https://yuchormanski.free.bg/WeatherNow//)
+- 🌐 Live Demo: [WeatherNow](https://yuchormanski.free.bg/WeatherNow/)
 - 📂 GitHub Repository: Link to [GitHub Repository](https://github.com/yuchormanski/WeatherNow)
 - 📝 Description: This is a weather forecast application. Main city is Sofia/ Bulgaria, but it can be changed , according to users current location or custom searched location
 - 🔧 Technologies Used: JavaScript, HTML, CSS3 / CSS-Grid / CSS-Flex, Page.js, Lit-HTML .
+
+- 
+<h3><<img src="https://github.com/yuchormanski/yuchormanski.github.io/assets/693307/65297efe-4674-4ca8-8aff-23092df47f0f" width="15" height ="15"> Bulls and Cows</h3>
+
+- 🌐 Live Demo: [Bulls and Cows]([https://yuchormanski.free.bg/WeatherNow//](https://yuchormanski.github.io))
+- 📂 GitHub Repository: Link to [GitHub Repository](https://github.com/yuchormanski/yuchormanski.github.io)
+- 📝 Description: Bulls and Cows is a logic game to guess numbers. The numbers have to be with four digits and the digits must be all different. The game is played by one player against the computer to try to guess their computer's number. The computer responds with the number of matching digits.
+- 🔧 Technologies Used: JavaScript, HTML, CSS3 .
