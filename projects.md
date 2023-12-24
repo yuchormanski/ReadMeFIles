@@ -45,3 +45,10 @@
 - 📂 GitHub Repository: Link to [GitHub Repository](https://github.com/yuchormanski/yuchormanski.github.io)
 - 📝 Description: Bulls and Cows is a logic game to guess numbers. The numbers have to be with four digits and the digits must be all different. The game is played by one player against the computer to try to guess their computer's number. The computer responds with the number of matching digits.
 - 🔧 Technologies Used: JavaScript, HTML, CSS3 .
+
+<h3><img src="https://github.com/yuchormanski/yuchormanski.github.io/assets/693307/65297efe-4674-4ca8-8aff-23092df47f0f" width="15" height ="15"> Reactins</h3>
+
+- 🌐 Live Demo: [Bulls and Cows](https://get-reactions.vercel.app/)
+- 📂 GitHub Repository: Link to [GitHub Repository](https://github.com/yuchormanski/reactions)
+- 📝 Description: Bulls and Cows is a logic game to guess numbers. The numbers have to be with four digits and the digits must be all different. The game is played by one player against the computer to try to guess their computer's number. The computer responds with the number of matching digits.
+- 🔧 Technologies Used: JavaScript, HTML, CSS3 .
