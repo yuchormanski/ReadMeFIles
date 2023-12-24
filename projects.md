@@ -1,4 +1,4 @@
-###### [Back to Main](/)
+###### [Back to Main](https://github.com/yuchormanski)
 
 ## 🌟 Custom projects
 
