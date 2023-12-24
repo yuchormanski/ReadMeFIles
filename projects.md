@@ -37,7 +37,7 @@
 - 🔧 Technologies Used: JavaScript, HTML, CSS3 / CSS-Grid / CSS-Flex, Page.js, Lit-HTML .
 
 - 
-<h3><<img src="https://github.com/yuchormanski/yuchormanski.github.io/assets/693307/65297efe-4674-4ca8-8aff-23092df47f0f" width="15" height ="15"> Bulls and Cows</h3>
+<h3><img src="https://github.com/yuchormanski/yuchormanski.github.io/assets/693307/65297efe-4674-4ca8-8aff-23092df47f0f" width="15" height ="15"> Bulls and Cows</h3>
 
 - 🌐 Live Demo: [Bulls and Cows]([https://yuchormanski.free.bg/WeatherNow//](https://yuchormanski.github.io))
 - 📂 GitHub Repository: Link to [GitHub Repository](https://github.com/yuchormanski/yuchormanski.github.io)
