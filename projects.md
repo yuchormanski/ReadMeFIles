@@ -59,3 +59,5 @@
 - 📂 GitHub Repository: Link to [GitHub Repository](https://github.com/yuchormanski/OnlyVideo?tab=readme-ov-file)
 - 📝 Description: OnlyVideo is a web application, witch is  gave you ability to load video from youtube link and watch it without anything else on screen. It is very helpful for learning , because there is nothing distracting you. 
 - 🔧 Technologies Used: JavaScript, HTML/CSS3.
+    
+    - icons by <a href="https://icons8.com">Icons8</a>
