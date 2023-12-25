@@ -52,3 +52,10 @@
 - 📂 GitHub Repository: Link to [GitHub Repository](https://github.com/yuchormanski/reactions)
 - 📝 Description: Reactions is a smapl Reac projet created for help and easy-in-learn React.JS. Fully in Bulgarian
 - 🔧 Technologies Used: React.JS, HTML/CSS3.
+
+<h3><img width="15" height="15" src="https://img.icons8.com/dusk/64/video.png" alt="video"/> OnlyVideo</h3>
+
+- 🌐 Live Demo: [Reactions](http://yuchormanski.free.bg/onlyvideo/)
+- 📂 GitHub Repository: Link to [GitHub Repository](https://github.com/yuchormanski/OnlyVideo?tab=readme-ov-file)
+- 📝 Description: OnlyVideo is a web application, witch is  gave you ability to load video from youtube link and watch it without anything else on screen. It is very helpful for learning , because there is nothing distracting you. 
+- 🔧 Technologies Used: JavaScript, HTML/CSS3.
